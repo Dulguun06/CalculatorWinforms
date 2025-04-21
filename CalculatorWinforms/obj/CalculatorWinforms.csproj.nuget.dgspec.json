@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\CalculatorWinforms.csproj": {}
+    "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinForms\\CalculatorWinforms\\CalculatorWinforms.csproj": {}
   },
   "projects": {
-    "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\CalculatorWinforms.csproj": {
+    "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinForms\\CalculatorWinforms\\CalculatorWinforms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\CalculatorWinforms.csproj",
+        "projectUniqueName": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinForms\\CalculatorWinforms\\CalculatorWinforms.csproj",
         "projectName": "CalculatorWinforms",
-        "projectPath": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\CalculatorWinforms.csproj",
+        "projectPath": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinForms\\CalculatorWinforms\\CalculatorWinforms.csproj",
         "packagesPath": "C:\\Users\\Dulguun\\.nuget\\packages\\",
         "outputPath": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\obj\\",
         "projectStyle": "PackageReference",

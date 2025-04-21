@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorWinforms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8213bbde3ad816b3162d913645a9694d0d5fa5e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatorWinforms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatorWinforms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

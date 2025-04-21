@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\views\\calculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\views\\calculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\views\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\views\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\views\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\views\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|d:\\2024-2025 hicheel\\windows developing\\calculatorwinforms\\calculatorwinforms\\views\\icalculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4EA21D-132D-4D56-BA69-A22B6362A17E}|CalculatorWinforms\\CalculatorWinforms.csproj|solutionrelative:calculatorwinforms\\views\\icalculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculatorForm.cs [Design]",
-              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "RelativeDocumentMoniker": "CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs [Design]",
-              "RelativeToolTip": "CalculatorWinforms\\Views\\CalculatorForm.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "ICalculatorView.cs",
+              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\ICalculatorView.cs",
+              "RelativeDocumentMoniker": "CalculatorWinforms\\Views\\ICalculatorView.cs",
+              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\ICalculatorView.cs",
+              "RelativeToolTip": "CalculatorWinforms\\Views\\ICalculatorView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:59:10.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-21T06:25:43.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorForm.Designer.cs",
-              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.Designer.cs",
-              "RelativeDocumentMoniker": "CalculatorWinforms\\Views\\CalculatorForm.Designer.cs",
-              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.Designer.cs",
-              "RelativeToolTip": "CalculatorWinforms\\Views\\CalculatorForm.Designer.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAowKUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "CalculatorWinforms\\Models\\CalculatorModel.cs",
+              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "CalculatorWinforms\\Models\\CalculatorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:37:07.244Z",
+              "WhenOpened": "2025-04-21T06:25:38.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculatorForm.cs",
-              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "RelativeDocumentMoniker": "CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "RelativeToolTip": "CalculatorWinforms\\Views\\CalculatorForm.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAUwKMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:27:18.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "CalculatorWinforms\\Controllers\\CalculatorController.cs",
               "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "CalculatorWinforms\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T17:29:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "CalculatorWinforms\\Views\\CalculatorForm.cs",
+              "ToolTip": "D:\\2024-2025 Hicheel\\Windows Developing\\CalculatorWinforms\\CalculatorWinforms\\Views\\CalculatorForm.cs",
+              "RelativeToolTip": "CalculatorWinforms\\Views\\CalculatorForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:27:18.185Z",
               "EditorCaption": ""
             }
           ]

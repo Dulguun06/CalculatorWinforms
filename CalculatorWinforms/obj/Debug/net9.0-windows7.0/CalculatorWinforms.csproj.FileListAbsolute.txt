@@ -18,3 +18,4 @@ D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\ob
 D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net9.0-windows7.0\CalculatorWinforms.pdb
 D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net9.0-windows7.0\CalculatorWinforms.genruntimeconfig.cache
 D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net9.0-windows7.0\ref\CalculatorWinforms.dll
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinForms\CalculatorWinforms\obj\Debug\net9.0-windows7.0\CalculatorWinforms.sourcelink.json

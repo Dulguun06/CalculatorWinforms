@@ -41,7 +41,7 @@ namespace CalculatorWinForms.Views
             { "7", "8", "9", "C",
               "4", "5", "6", "-",
               "1", "2", "3", "+",
-              "MS", "0", "=", "MC" };
+              "MS", "0", "=", "" };
 
             int index = 0;
             for (int row = 0; row < 4; row++)
