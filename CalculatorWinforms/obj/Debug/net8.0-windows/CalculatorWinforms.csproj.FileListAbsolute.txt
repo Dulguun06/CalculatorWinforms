@@ -1,0 +1,7 @@
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.csproj.AssemblyReference.cache
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.View.CalculatorForm.resources
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.csproj.GenerateResource.cache
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.AssemblyInfoInputs.cache
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.AssemblyInfo.cs
+D:\2024-2025 Hicheel\Windows Developing\CalculatorWinforms\CalculatorWinforms\obj\Debug\net8.0-windows\CalculatorWinforms.csproj.CoreCompileInputs.cache

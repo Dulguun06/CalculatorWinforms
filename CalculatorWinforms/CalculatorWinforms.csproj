@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CalculatorLibrary">
+      <HintPath>..\..\CalculatorLibrary\CalculatorLibrary\bin\Debug\net9.0\CalculatorLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
