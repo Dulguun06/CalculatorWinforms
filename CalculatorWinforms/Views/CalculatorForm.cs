@@ -1,4 +1,5 @@
-﻿using CalculatorWinForms.Controllers;
+﻿using CalculatorLibrary.Models;
+using CalculatorWinForms.Controllers;
 using Timer = System.Windows.Forms.Timer;
 
 namespace CalculatorWinForms.Views
@@ -15,7 +16,6 @@ namespace CalculatorWinForms.Views
         {
             InitializeComponent();
             InitializeButtons();
-
         }
 
         public void SetController(CalculatorController controller)
@@ -149,15 +149,15 @@ namespace CalculatorWinForms.Views
             btnMPlus.Visible = false;
             btnMMinus.Visible = false;
         }
-        public void UpdateMemoryList(List<double> memoryItems)
+        public void UpdateMemoryList(List<MemoryItem> memoryItems)
         {
             ClearMemoryList();
-            for (int i = 0; i < memoryItems.Count; i++)
+            foreach (var item in memoryItems)
             {
-                var item = memoryItems[i];
-                memoryList.Items.Add(item.ToString());
+                memoryList.Items.Add(item.Value.ToString());
             }
         }
+
 
         private void MemoryList_ItemMouseHover(object sender, ListViewItemMouseHoverEventArgs e)
         {

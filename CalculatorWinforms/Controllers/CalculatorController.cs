@@ -41,33 +41,32 @@ namespace CalculatorWinForms.Controllers
         }
         public void SaveToMemory(string value)
         {
-            if (double.TryParse(value, out double num))
-            {
-                _memory.Save(num);
-            }
+            MemoryItem item = new MemoryItem(double.Parse(value));
+                _memory.Save(item);
         }
 
         public double IncrementMemory(int index, double fo, double so)
         {
             double result = Calculate(fo, so, "+");
-            _memory.SetMemoryItem(index, result);
+            _memory.SetMemoryItem(index, new MemoryItem(result));
             return result;
         }
 
         public double DecrementMemory(int index, double fo, double so)
         {
             double result = Calculate(fo, so, "-");
-            _memory.SetMemoryItem(index, result);
+            _memory.SetMemoryItem(index, new MemoryItem(result));
             return result;
         }
+
         public void RemoveFromMemory(int index)
         {
             _memory.RemoveMemoryItem(index);
         }
 
-        public List<double> RecallFromMemory()
+        public List<MemoryItem> RecallFromMemory()
         {
-            return _memory.GetMemoryValues();
+            return _memory.GetMemory();
         }
 
         public void ClearMemory()
